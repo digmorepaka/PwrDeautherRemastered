@@ -1,6 +1,6 @@
 # Remaster 
 
-My inspiration was to update this package for newer Linux distributions that do not have net-tools preinstalled and are switching from `ifoncifg` to `ip`
+My inspiration was to update this package for newer Linux distributions that do not have net-tools preinstalled and are switching from `ifconfig` to `ip`
 
 # PwrDeauther
 A MDK3 channel deauther script. Fast, easy to use and powerful. (MDK3 is more powerful than Aireplay)
