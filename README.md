@@ -5,7 +5,7 @@ My inspiration was to update this package for newer Linux distributions that do 
 # PwrDeauther
 A MDK3 channel deauther script. Fast, easy to use and powerful. (MDK3 is more powerful than Aireplay)
 
-<img src="">
+<img src="https://raw.githubusercontent.com/digmorepaka/PwrDeautherRemastered/master/screenshot.png">
 
 ## Dependencies
 
